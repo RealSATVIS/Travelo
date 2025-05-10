@@ -19,3 +19,4 @@ Explore our diverse range of travel packages and destinations on the Destination
 |-------------------|-------------------------------------------|
 | Frontend          | Tailwind CSS                              |
 | Backend           | Node.js, JavaScript                       |
+| Deployment        | Nelify                                    |
